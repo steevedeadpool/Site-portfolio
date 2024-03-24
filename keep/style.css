@@ -1,0 +1,15 @@
+
+#create-keep {
+    width: 120px;
+    height: 100px;
+    background-color: orange;
+    border: 0;
+    color: white;
+    border-radius: 5px;
+}
+#create-keep:hover {
+    background-color: rgb(255, 196, 86);
+}
+#create-keep:active {
+    background-color: rgb(217, 142, 1);
+}
