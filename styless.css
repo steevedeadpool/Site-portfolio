@@ -1,9 +1,0 @@
-.exit-from-page {
-    margin: 0;
-    height: 50px;
-    width: 50px;
-    background-color: orange
-}
-.exit-from-page:hover {
-    background-color: rgb(255, 196, 86);
-}
